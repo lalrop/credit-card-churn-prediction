@@ -1,0 +1,6 @@
+1. EDA (Análisis Exploratorio) - Distribución de clases, correlaciones, visualizaciones clave
+2. Preprocesamiento - Manejo de variables categóricas, escalado, balance de clases (seguramente hay desbalance)
+3. Feature Engineering - Selección y posible creación de features
+4. Modelado - Probar varios clasificadores (Logistic Regression, Random Forest, XGBoost, etc.)
+5. Evaluación - Métricas relevantes (Accuracy, Precision, Recall, F1, AUC-ROC, matriz de confusión)
+6. Interpretabilidad - SHAP o feature importance para explicar el modelo

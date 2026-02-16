@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Archivos del modelo (pesados, se regeneran ejecutando churn.py)
+*.pkl
+
+# Datos exportados para Power BI (se regeneran ejecutando churn.py)
+powerbi_data/
+
+# Figuras generadas (se regeneran ejecutando churn.py)
+fig_*.png
+
+# IDE
+.vscode/
+.idea/
