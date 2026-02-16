@@ -5,8 +5,8 @@ __pycache__/
 .venv/
 venv/
 
-# Archivos del modelo (pesados, se regeneran ejecutando churn.py)
-*.pkl
+# Archivos del modelo grandes o temporales (los 4 .pkl del modelo se suben al repo)
+# *.pkl
 
 # Datos exportados para Power BI (se regeneran ejecutando churn.py)
 powerbi_data/
